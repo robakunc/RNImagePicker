@@ -1,0 +1,263 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-image-picker] C:\Users\zain ul abdin\Desktop\React native Projects\image\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\4f0daf00b5cc4110fa65e8ca66a4fb59\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\2f25661af15ee895708c567855c59006\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\c271711f0db70c770450b4aca4508cea\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\e8f7f5ddc89ba59b7edab848524e6f42\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\b88b464c17de91d059a4f97ecf83f0fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\99006c8228e6e6e7ad9263e6c6d39815\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\0c78c605cf0ff35852f56d24da2163dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\77e00bf37d7618e1a39030ef5624fb33\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\d4da35720a1649d49b422efd8f38fdd0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\72bdfb739cd6a135e38d3e3e891f3e72\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\081d2b99827fc9598dd8ef6f08dd3e85\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\88ee863dbd9818f02a723367e7d4c46a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\09173d2ee2e389ea42b1642e6bc6eabe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\aeb653f28e1646481449712ae5cb7a21\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\d31f771f22594790d9a2a4152ce906db\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\5b3175d320a062925362f623835ef350\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\9ab55839f6023b3224863d9f0cd65916\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\da7e059e8f61563366b613215218bcf2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\80353dd85c8ff8d2cfef39424f0c5072\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\f93143a36c6429cfc6008661e72104cf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\aa0c290344743c50ca84efb897091226\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\1fa874bfca7572e4edd225365eb76721\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\7abfd572c0960ef83b78ecf6bed1da13\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\26d64f282d12c5ada1805437148bd00a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\540414f8f2b2cb28401e127c64cb8b82\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\341a5796a8e610c00e2e8c7564dca762\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\c2dd0e1dcb48d8038524f76d417ac7b1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\9e0e65eef49d622b8eaed4605e9b31c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\58e48a676693c9d159a09f4fef5960dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\2f137c74e6581d66aa07ebaf20f57c2d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\8f888ed6c445557b17b142773ac2f027\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\bc6865f95352fe2f9788604584ea7dba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\96c08ab6a1b945d812bbadc534b86dd6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\d65530c5b57b84e77914a6bd89bd24a7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\4e1d7b84b159dbd9c73dead9aec3f680\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\ac3a9ddedeb938d4f9ba2e304d7d9cfb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\e177d6e6a48201b4f8bf6bde222f0425\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\73a5d4fcfe068ed9f25ad61a1138c064\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\be9dd009c4d4ed15da2191db879953b2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\86d81707a1a6b46badf0a007a09ed943\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\ef8d86e16dc76cdc6835be3e18465607\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:2:3-22
+		INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:2:3-22
+		INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-image-picker] C:\Users\zain ul abdin\Desktop\React native Projects\image\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] C:\Users\zain ul abdin\Desktop\React native Projects\image\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\4f0daf00b5cc4110fa65e8ca66a4fb59\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\4f0daf00b5cc4110fa65e8ca66a4fb59\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\2f25661af15ee895708c567855c59006\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\2f25661af15ee895708c567855c59006\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\aa0c290344743c50ca84efb897091226\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\aa0c290344743c50ca84efb897091226\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\1fa874bfca7572e4edd225365eb76721\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\1fa874bfca7572e4edd225365eb76721\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\86d81707a1a6b46badf0a007a09ed943\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\86d81707a1a6b46badf0a007a09ed943\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\aa0c290344743c50ca84efb897091226\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml:10:75-114
+	android:roundIcon
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml:10:54-74
+	android:icon
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml:10:18-53
+	android:name
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.image.MainActivity
+ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-image-picker] C:\Users\zain ul abdin\Desktop\React native Projects\image\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] C:\Users\zain ul abdin\Desktop\React native Projects\image\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\4f0daf00b5cc4110fa65e8ca66a4fb59\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\4f0daf00b5cc4110fa65e8ca66a4fb59\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\2f25661af15ee895708c567855c59006\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\2f25661af15ee895708c567855c59006\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\c271711f0db70c770450b4aca4508cea\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\c271711f0db70c770450b4aca4508cea\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\e8f7f5ddc89ba59b7edab848524e6f42\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\e8f7f5ddc89ba59b7edab848524e6f42\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\b88b464c17de91d059a4f97ecf83f0fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\b88b464c17de91d059a4f97ecf83f0fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\99006c8228e6e6e7ad9263e6c6d39815\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\99006c8228e6e6e7ad9263e6c6d39815\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\0c78c605cf0ff35852f56d24da2163dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\0c78c605cf0ff35852f56d24da2163dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\77e00bf37d7618e1a39030ef5624fb33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\77e00bf37d7618e1a39030ef5624fb33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\d4da35720a1649d49b422efd8f38fdd0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\d4da35720a1649d49b422efd8f38fdd0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\72bdfb739cd6a135e38d3e3e891f3e72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\72bdfb739cd6a135e38d3e3e891f3e72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\081d2b99827fc9598dd8ef6f08dd3e85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\081d2b99827fc9598dd8ef6f08dd3e85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\88ee863dbd9818f02a723367e7d4c46a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\88ee863dbd9818f02a723367e7d4c46a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\09173d2ee2e389ea42b1642e6bc6eabe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\09173d2ee2e389ea42b1642e6bc6eabe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\aeb653f28e1646481449712ae5cb7a21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\aeb653f28e1646481449712ae5cb7a21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\d31f771f22594790d9a2a4152ce906db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\d31f771f22594790d9a2a4152ce906db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\5b3175d320a062925362f623835ef350\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\5b3175d320a062925362f623835ef350\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\9ab55839f6023b3224863d9f0cd65916\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\9ab55839f6023b3224863d9f0cd65916\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\da7e059e8f61563366b613215218bcf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\da7e059e8f61563366b613215218bcf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\80353dd85c8ff8d2cfef39424f0c5072\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\80353dd85c8ff8d2cfef39424f0c5072\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\f93143a36c6429cfc6008661e72104cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\f93143a36c6429cfc6008661e72104cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\aa0c290344743c50ca84efb897091226\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\aa0c290344743c50ca84efb897091226\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\1fa874bfca7572e4edd225365eb76721\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\1fa874bfca7572e4edd225365eb76721\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\7abfd572c0960ef83b78ecf6bed1da13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\7abfd572c0960ef83b78ecf6bed1da13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\26d64f282d12c5ada1805437148bd00a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\26d64f282d12c5ada1805437148bd00a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\540414f8f2b2cb28401e127c64cb8b82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\540414f8f2b2cb28401e127c64cb8b82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\341a5796a8e610c00e2e8c7564dca762\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\341a5796a8e610c00e2e8c7564dca762\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\c2dd0e1dcb48d8038524f76d417ac7b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\c2dd0e1dcb48d8038524f76d417ac7b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\9e0e65eef49d622b8eaed4605e9b31c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\9e0e65eef49d622b8eaed4605e9b31c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\58e48a676693c9d159a09f4fef5960dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\58e48a676693c9d159a09f4fef5960dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\2f137c74e6581d66aa07ebaf20f57c2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\2f137c74e6581d66aa07ebaf20f57c2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\8f888ed6c445557b17b142773ac2f027\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\8f888ed6c445557b17b142773ac2f027\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\bc6865f95352fe2f9788604584ea7dba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\bc6865f95352fe2f9788604584ea7dba\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\96c08ab6a1b945d812bbadc534b86dd6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\96c08ab6a1b945d812bbadc534b86dd6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\d65530c5b57b84e77914a6bd89bd24a7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\d65530c5b57b84e77914a6bd89bd24a7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\4e1d7b84b159dbd9c73dead9aec3f680\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\4e1d7b84b159dbd9c73dead9aec3f680\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\ac3a9ddedeb938d4f9ba2e304d7d9cfb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\ac3a9ddedeb938d4f9ba2e304d7d9cfb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\e177d6e6a48201b4f8bf6bde222f0425\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\e177d6e6a48201b4f8bf6bde222f0425\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\73a5d4fcfe068ed9f25ad61a1138c064\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\73a5d4fcfe068ed9f25ad61a1138c064\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\be9dd009c4d4ed15da2191db879953b2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\be9dd009c4d4ed15da2191db879953b2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\86d81707a1a6b46badf0a007a09ed943\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\86d81707a1a6b46badf0a007a09ed943\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\ef8d86e16dc76cdc6835be3e18465607\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\zain ul abdin\.gradle\caches\transforms-2\files-2.1\ef8d86e16dc76cdc6835be3e18465607\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml:7:1-61
+	android:name
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml:7:18-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml:8:1-76
+	android:name
+		ADDED from C:\Users\zain ul abdin\Desktop\React native Projects\image\android\app\src\debug\AndroidManifest.xml:8:18-74
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] C:\Users\zain ul abdin\Desktop\React native Projects\image\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\Users\zain ul abdin\Desktop\React native Projects\image\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\Users\zain ul abdin\Desktop\React native Projects\image\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] C:\Users\zain ul abdin\Desktop\React native Projects\image\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\zain ul abdin\Desktop\React native Projects\image\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] C:\Users\zain ul abdin\Desktop\React native Projects\image\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] C:\Users\zain ul abdin\Desktop\React native Projects\image\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\zain ul abdin\Desktop\React native Projects\image\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-67
